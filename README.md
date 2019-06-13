@@ -1,2 +1,4 @@
 # VAE_practice
-practice implementation to study VAE
+* Practical implementation to study VAE for MNIST data with Tensorflow.
+* Main reference code is [this repository](https://github.com/hwalsuklee/tensorflow-mnist-VAE).
+
